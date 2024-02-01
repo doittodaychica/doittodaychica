@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me ... direct messages work...
 - 😄 Pronouns: she/her/they
-- ⚡ Fun fact: I've done this before, just not with Python.
+- ⚡ Fun fact: Prior to working with python, I have primarily wrangled data in Excel and SAS to create many various supervised ML models.
 
 <!---
 doittodaychica/doittodaychica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
